@@ -1,1 +1,1 @@
-# contilio-threejs-60fps-challeng
+# contilio-threejs-60fps-challenge
