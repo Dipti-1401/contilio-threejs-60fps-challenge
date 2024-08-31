@@ -1,4 +1,3 @@
-````markdown
 # Contilio Three.js Code Challenge
 
 ## Overview
@@ -13,7 +12,6 @@ This project optimizes the rendering of 27,000 cubes in a Three.js scene to run 
    git clone https://github.com/Dipti-1401/contilio-threejs-60fps-challenge.git
    cd contilio-threejs-challenge
    ```
-````
 
 2. Serve the project:
 
